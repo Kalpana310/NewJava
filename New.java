@@ -6,5 +6,6 @@ public class New {
 }
 		System.out.println("Hello Welcome");
 	}
+System.out.println("Program completed..!!");
 
 }
